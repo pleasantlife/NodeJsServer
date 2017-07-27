@@ -73,6 +73,20 @@
 
    - root는 mysql 설치시 설정한 username.
    - 명령어 입력 후 패스워드를 물을 때에도 mysql 설치시 설정한 password 입력.
+   
+   
+### MySQL Workbench Diagram
+
+#### Diagram 활용법
+
+1. MySQL Workbench 실행
+2. 실행 후 첫화면에서 좌측 두번째 그림 클릭
+3. models에서 +버튼 클릭
+4. db명, db에 넣을 테이블과 Column 제작
+5. 제작이 완료되면 Database 메뉴에서 Forward Engineer 버튼 클릭
+6. 저장할 MySQL dbms를 선택하는 창이 뜸.
+7. 설정 완료 후 버튼을 누르면 MySQL에 접속
+8. Local instance MySQL Router로 이동하여 SCHEMAS에서 새로고침 클릭 하여 작업이 잘 되었는지 확인    
 
 
 ### 리눅스 및 vi 에디터 기본 명령어
@@ -96,3 +110,6 @@
     - esc + :w : 저장안하고 나감.
 
     - shift + insert : 클립보드 데이터 붙여넣기.
+    
+    
+    
