@@ -54,7 +54,7 @@
 
   10. 프로그램 하단 Open을 눌러 서버 접속 후 login as에 ubuntu 입력하면 접속 완료
 
-### 우분투 EC2에서 mysql 설치 및 workbench 연동
+## 우분투 EC2에서 mysql 설치 및 workbench 연동/
 
   1. mysql 설치를 원하는 폴더로 이동 (물론 전역설치도 가능)
 
